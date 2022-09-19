@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659896867 source:c:\users\ilyes\documents\devs\cpp\todo_list_queue\main.cpp
+	<iostream>
+	<queue>
+

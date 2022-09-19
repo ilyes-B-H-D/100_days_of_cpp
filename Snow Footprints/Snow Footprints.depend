@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660070428 source:c:\users\ilyes\documents\devs\cpp\snow footprints\main.cpp
+	<iostream>
+	<algorithm>
+

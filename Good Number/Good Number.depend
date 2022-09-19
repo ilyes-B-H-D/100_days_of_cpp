@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659864007 source:c:\users\ilyes\documents\devs\cpp\good number\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
